@@ -213,3 +213,10 @@ span {
     display: block;
   }
 }
+
+#skills {
+  display: block;
+}
+#education > a, #education > .date-text {
+  padding-left: 5%;
+}
